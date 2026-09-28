@@ -1,0 +1,11 @@
+{
+  "kind": "rabbit-hole-atlas-base-update",
+  "schemaVersion": 1,
+  "packId": "deep-foundations",
+  "version": 12,
+  "packSchemaVersion": 1,
+  "reviewed": "2026-09-05",
+  "url": "https://raw.githubusercontent.com/Nogoodpunk42/rabbit-hole-atlas-pack-feed/main/packs/deep-foundations-v12.0.0.rha-pack.zip",
+  "bytes": 175869,
+  "sha256": "61e1582dad35524e10ba28e106c8a990fd3abfd8a53cd1047fa9c122ff65cc33"
+}
